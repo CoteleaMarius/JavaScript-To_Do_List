@@ -1,0 +1,11 @@
+.visibility{
+    /* background-color: green; */
+}
+.alert-success{
+    background-color: greenyellow;
+}
+
+.completed{
+    text-decoration:line-through;
+    background-color: red;
+}
